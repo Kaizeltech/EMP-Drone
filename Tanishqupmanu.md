@@ -24,3 +24,9 @@ Our plan is to first develop a prototype of the EMP drone and conduct thorough t
 | High voltage genrator | (https://amzn.eu/d/3gsOW9h) | $13.30 |
 | Copper wire | (https://amzn.eu/d/eDQC7VQ) | $18.08 |
 | Total           |                                       | $246.21 |
+
+
+- [y] I am a current high school student (or younger).
+- [y] I have submitted an RSVP at <https://hackclub.com/winter>
+- [y] I am a member of the Hack Club Slack (Join at <https://hackclub.com/slack>)
+- [y] I have self-reviewed my project proposal.
